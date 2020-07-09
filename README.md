@@ -5,14 +5,16 @@
 <html lang="pt-br">
 <head>
 <meta charset="utf-8">
-<title>
-  paginaMiguel1
-</title>  
+<title>paginaMiguel1</title>  
 </head>  
 <body>
-    <p>minha  primeira página</p>
-    <header>
-    <h1>minha pagina conteudo</h1>
+     <p>minha  primeira página</p>
+  
+   <header>
+         <h1>minha pagina</h1>
+  <P>
+CONTEUDO
+<P>
     </header>
 <footer>
   <p>desenvolvido por Digital One<p>
