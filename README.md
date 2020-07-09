@@ -3,12 +3,12 @@ Aula sobre html5 e css3
 <DOCTYPE html>
   <html lang="pt-br">
     
-   <head>
-     <meta charset="utf-8">
-  <title>paginaMiguel1</title>
-    </head>
+<head>
+<meta charset="utf-8">
+<title>paginaMiguel1</title>
+</head>
     
-    <body>
+<body>
     <p>minha  primeira página</p>
     <header>
     <h1>minha pagina conteudo</h1>
