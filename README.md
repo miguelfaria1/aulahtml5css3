@@ -12,14 +12,14 @@
   
    <header>
          <h1>minha pagina</h1>
-  <P>
-CONTEUDO
-<P>
+<p>
+CONTEUDO DA PÁGINA
+<p>
     </header>
 <footer>
   <p>desenvolvido por Digital One<p>
 </footer>
-    </body>
+</body>
     
    </html>
     
