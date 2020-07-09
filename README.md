@@ -1,13 +1,14 @@
 # aulahtml5css3
-Aula sobre html5 e css3
+# Aula sobre html5 e css3
+
 <DOCTYPE html>
-  <html lang="pt-br">
-    
+<html lang="pt-br">
 <head>
 <meta charset="utf-8">
-<title>paginaMiguel1</title>
-</head>
-    
+<title>
+  paginaMiguel1
+</title>  
+</head>  
 <body>
     <p>minha  primeira página</p>
     <header>
