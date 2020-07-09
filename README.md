@@ -1,6 +1,6 @@
 # aulahtml5css3
 Aula sobre html5 e css3
-<doctype html>
+<DOCTYPE html>
   <html lang="pt-br">
     
    <head>
@@ -9,9 +9,13 @@ Aula sobre html5 e css3
     </head>
     
     <body>
-    <p> minha  primeira página</p>
-    <header><h1>minha pagina conteudo</h1></header>
-<footer><p>desenvolvido por Digital One<p></footer>
+    <p>minha  primeira página</p>
+    <header>
+    <h1>minha pagina conteudo</h1>
+    </header>
+<footer>
+  <p>desenvolvido por Digital One<p>
+</footer>
     </body>
     
    </html>
